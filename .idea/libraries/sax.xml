@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sax">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/sax.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
